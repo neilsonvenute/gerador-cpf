@@ -1,0 +1,1 @@
+Aprendizado do curso de Javascript e Typescript
